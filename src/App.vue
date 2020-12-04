@@ -18,11 +18,7 @@ export default {
   },
   data() {
     return {
-      todos: [
-        { id: 1, title: 'this isisis', completed: false },
-        { id: 2, title: 'hahaha', completed: false },
-        { id: 3, title: 'jnjsnj', completed: false },
-      ],
+      todos: [],
     };
   },
   methods: {
